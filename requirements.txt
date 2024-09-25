@@ -1,7 +1,6 @@
 Streamlit
 PyPDF2
-whisper
-os
+openai-whisper
 datetime
 pytesseract
 PIL
