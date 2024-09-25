@@ -1,24 +1,22 @@
-import streamlit
-import PyPDF2
-import io
-import whisper
-import os
-import datetime
-import pytesseract
-import PIL
-import pandas
-import tabula.io
-import os
-import tempfile
-import io
-import pathlib
-import docxtpl
-import tqdm
-import shutil
-import send2trash
-import tabula
-import zipfile
-import fitz
-import re
-import docx
-import pdfplumber
+streamlit
+PyPDF2
+io
+whisper
+os
+datetime
+pytesseract
+PIL
+pandas
+tabula.io
+tempfile
+pathlib
+docxtpl
+tqdm
+shutil
+send2trash
+tabula
+zipfile
+fitz
+re
+docx
+pdfplumber
